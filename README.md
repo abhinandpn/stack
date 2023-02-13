@@ -1,4 +1,4 @@
-# stack
+# Stack
 
 # Push opration
 # Pop Oprations 
